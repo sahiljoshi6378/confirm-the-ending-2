@@ -14,4 +14,4 @@ function confirmending(str, trgt) {
     console.log('Not found!')
   }
 }
-confirmending('ending','i')
+confirmending('confirmending','g')
